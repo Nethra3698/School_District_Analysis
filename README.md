@@ -15,6 +15,7 @@ The code used Python 3.7.6, along with pandas in jupyter notebook. schools_compl
 - Bottom Schools
 ![Fig 4. ]( /analysis/BottomSchools.PNG)
 - Scores by grade (table on the left is for math and the one on the right is for reading)
+
     ![Fig 5. ]( /analysis/mathScoreByGrade.PNG)  ![Fig 6. ]( /analysis/ReadingScoreByGrade.PNG)
 - Scores by school spending
 ![Fig 7. ]( /analysis/SpendingSummary.PNG)
